@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on: LithiumGPT and leveraging AI-driven workflows for application development<br>I'm looking to collaborate on: AI powered software projects and machine learning integrations<br>I'm looking for help with: Advanced system optimization and scaling AI models<br>I'm currently learning: Advanced AI architecture and prompt engineering techniques<br>Ask me about: Multi-language software development using AI assistance<br>Fun fact: I can build projects across almost any programming language by utilizing AI development tools
+# ✌︎㋡ About Me
+I'm currently working on: LithiumGPT and leveraging AI based workflows for application development<br>I'm looking to collaborate on: AI powered software projects and machine learning integrations<br>I'm looking for help with: Advanced system optimization and scaling AI models<br>I'm currently learning: Advanced AI architecture and prompt engineering techniques<br>Ask me about: Multi-language software development using AI assistance<br>Fun fact: I can build projects across almost any programming language by utilizing AI development tools
 
 
 ## 🌐 Socials:
